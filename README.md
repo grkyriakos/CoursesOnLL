@@ -4,4 +4,5 @@ Courses I want to follow on LinkedinLearning
 *Design Thinking practical
 *VBA for Applications
 *BI 
+*AI
 
