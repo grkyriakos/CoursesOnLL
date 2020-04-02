@@ -5,4 +5,4 @@ Courses I want to follow on LinkedinLearning
 *VBA for Applications
 *BI 
 *AI
-
+Project managment
